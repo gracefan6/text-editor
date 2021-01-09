@@ -1,1 +1,3 @@
-# text-editor
+# Data Structure and Text Editors
+
+This project requires implementation of core data structures and algorithms for a simplified text editors. The first part requires a generic hash table, a prefix tree, and a bloom filter. Using these three data structures, the second part requires us to create plugins for a text editor that performs word completion and spell checking. This program was written as a part of CS 2112 (fall 2020) at Cornell University. Due to academic intergrity concerns, I am unable to publicly publish the full repository of thie project. I, instead, posted a jar file of the project. To view the full contents of the code, please email fan123.me@gmail.com for requests.
